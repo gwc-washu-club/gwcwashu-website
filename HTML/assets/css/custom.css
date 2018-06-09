@@ -1,0 +1,98 @@
+body {
+	background-color: #ffffff;
+	font-family: "Open Sans", Open Sans, serif;
+}
+
+.logo img {
+	width: 250px;
+	padding-top: 5px;
+}
+
+.caps {
+	text-transform: uppercase;
+}
+
+.ebold {
+	font-weight: 700;
+}
+
+.photocreds {
+	text-align: right;
+	font-style: italic;
+	font-size: .75em;
+	margin-top: -5px;
+}
+
+.portfolio-item {
+	margin-bottom: 50px;
+}
+
+.image-hover {
+	border: none;
+	background-color: #01426a;
+	color: white;
+}
+
+.white {
+	color: white;
+}
+
+.center {
+	text-align: center;
+	margin: auto;
+}
+
+.image-hover img {
+	border: 2px solid white;
+}
+
+.description {
+	font-size: small;
+	line-height: .5;
+	
+}
+
+.learnMore {
+	margin-top: 10px;
+	background-color: #6eceb2;
+	border-color: #6eceb2;
+	color: white;
+}
+
+.spaceBelow {
+	margin-bottom: 20px;
+}
+
+.spaceAbove {
+	margin-top: 30px;
+}
+
+.teal {
+	color: teal;
+}
+
+li.indent {
+	text-indent: 25px;
+}
+
+#space1 {
+	margin-top: 50px;
+}
+
+#graphtext {
+	text-align: center;
+	margin-top: 50px;
+}
+
+#problemDescription {
+	margin-top: 15px;
+}
+
+#homeLearnMoreChevron {
+	margin: 0px -8px 0px 8px;
+}	
+
+#volunteerBtn {
+	margin: 0 auto;
+	/*margin-bottom: 30px;*/
+}
